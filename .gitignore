@@ -3,3 +3,4 @@ archive/
 .cache/
 dist/
 .DS_Store
+.history/

@@ -1,3 +1,4 @@
 {
-  "presets": ["cep", "react"]
+  "presets": ["cep", "react"],
+  "plugins": ["transform-object-rest-spread"]
 }
