@@ -1479,7 +1479,7 @@ babel-plugin-transform-es2015-template-literals@^6.22.0, babel-plugin-transform-
   dependencies:
     babel-runtime "^6.22.0"
 
-babel-plugin-transform-es2015-typeof-symbol@^6.23.0, babel-plugin-transform-es2015-typeof-symbol@^6.6.0:
+babel-plugin-transform-es2015-typeof-symbol@^6.23.0:
   version "6.23.0"
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-es2015-typeof-symbol/-/babel-plugin-transform-es2015-typeof-symbol-6.23.0.tgz#dec09f1cddff94b52ac73d505c84df59dcceb372"
   integrity sha1-3sCfHN3/lLUqxz1QXITfWdzOs3I=
@@ -1617,10 +1617,10 @@ babel-preset-env@^1.6.1:
     invariant "^2.2.2"
     semver "^5.3.0"
 
-babel-preset-extendscript@^0.1.1:
-  version "0.1.1"
-  resolved "https://registry.yarnpkg.com/babel-preset-extendscript/-/babel-preset-extendscript-0.1.1.tgz#7d72a28d896d20798b0771a8cd582bbacbf811da"
-  integrity sha1-fXKijYltIHmLB3GozVgrusv4Edo=
+babel-preset-extendscript@^0.4.0:
+  version "0.4.0"
+  resolved "https://registry.yarnpkg.com/babel-preset-extendscript/-/babel-preset-extendscript-0.4.0.tgz#defcf0c5d9f72bd3df6f587189eaf9513d97cd65"
+  integrity sha512-YVuR8LmuyMwUOdItIgyB+O/yAhxXuR4SGBB/zhRsZQGjbWaImIysORoq6aSux3qFg9GkSamwfzvf9TC/ulcuvA==
   dependencies:
     babel-plugin-check-es2015-constants "^6.3.13"
     babel-plugin-transform-es2015-arrow-functions "^6.3.13"
@@ -1643,7 +1643,6 @@ babel-preset-extendscript@^0.1.1:
     babel-plugin-transform-es2015-spread "^6.3.13"
     babel-plugin-transform-es2015-sticky-regex "^6.3.13"
     babel-plugin-transform-es2015-template-literals "^6.6.0"
-    babel-plugin-transform-es2015-typeof-symbol "^6.6.0"
     babel-plugin-transform-es2015-unicode-regex "^6.3.13"
     babel-plugin-transform-es3-property-literals "^6.8.0"
     babel-plugin-transform-object-rest-spread "^6.22.0"
