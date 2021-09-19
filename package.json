@@ -32,7 +32,7 @@
     "autoprefixer": "^10.3.4",
     "babel-core": "^6.26.3",
     "babel-preset-cep": "^0.0.3",
-    "babel-preset-extendscript": "https://github.com/CEP-Parcel/babel-preset-extendscript",
+    "babel-preset-extendscript": "^0.1.1",
     "babel-preset-react": "^6.24.1",
     "cep-interface": "^0.6.0",
     "concurrently": "^6.2.1",
